@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reposcratch/static/css/main.3f4d5311.chunk.css",
+    "main.js": "/reposcratch/static/js/main.054733a6.chunk.js",
+    "main.js.map": "/reposcratch/static/js/main.054733a6.chunk.js.map",
+    "runtime-main.js": "/reposcratch/static/js/runtime-main.d9109f25.js",
+    "runtime-main.js.map": "/reposcratch/static/js/runtime-main.d9109f25.js.map",
+    "static/js/2.2c37213a.chunk.js": "/reposcratch/static/js/2.2c37213a.chunk.js",
+    "static/js/2.2c37213a.chunk.js.map": "/reposcratch/static/js/2.2c37213a.chunk.js.map",
+    "static/js/3.83f0d5d9.chunk.js": "/reposcratch/static/js/3.83f0d5d9.chunk.js",
+    "static/js/3.83f0d5d9.chunk.js.map": "/reposcratch/static/js/3.83f0d5d9.chunk.js.map",
+    "index.html": "/reposcratch/index.html",
+    "static/css/main.3f4d5311.chunk.css.map": "/reposcratch/static/css/main.3f4d5311.chunk.css.map",
+    "static/js/2.2c37213a.chunk.js.LICENSE.txt": "/reposcratch/static/js/2.2c37213a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reposcratch/static/media/blackboard.a09b1cba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9109f25.js",
+    "static/js/2.2c37213a.chunk.js",
+    "static/css/main.3f4d5311.chunk.css",
+    "static/js/main.054733a6.chunk.js"
+  ]
+}
