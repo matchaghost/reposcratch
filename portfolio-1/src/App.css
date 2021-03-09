@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url("./blackboard.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+
+p {
+  color: white;
+  font-family: arial;
+}
+
+h1 {
+  color: white;
+  font-size: 59px;
+}
